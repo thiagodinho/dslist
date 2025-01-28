@@ -1,4 +1,4 @@
-#**DSList**
+#**DSList**#
 
 ##Description
 DSList is an API developed with Java Spring Boot that allows managing game lists, enabling the creation, listing, and organization of games into different categories. The project follows best practices in architecture, with well-defined layers and the use of modern technologies to ensure maintainability and scalability.
